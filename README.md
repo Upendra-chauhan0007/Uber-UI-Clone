@@ -1,2 +1,2 @@
 # Uber-UI-Clone
-This is a uber ui clone
+Uber landing page clone made using html and css.
